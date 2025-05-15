@@ -1,4 +1,6 @@
 ## Hi there 👋, I am CAREDGE OSIR
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 
 <!--
 **Caredge-Osir/Caredge-Osir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
