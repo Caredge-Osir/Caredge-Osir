@@ -1,13 +1,6 @@
 ## Hi there 👋, I am CAREDGE OSIR
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-<div style="font-size: 24px;">
-  <i class="fab fa-html5" title="HTML5"></i> 
-  <i class="fab fa-css3-alt" title="CSS3"></i> 
-  <i class="fab fa-js" title="JavaScript"></i> 
-  <i class="fab fa-react" title="React"></i> 
-  <i class="fab fa-python" title="Python"></i> 
-  <i class="fab fa-github" title="GitHub"></i>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40">
+
 
 
 
