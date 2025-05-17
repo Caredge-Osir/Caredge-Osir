@@ -33,7 +33,8 @@ I'm an undergraduate student pursuing a **Bachelor of Science in Statistics and 
 ---
 
 ## 🧠 Interests
-- Data Engineering & Data Pipelines  
+- Data Engineering
+- Data Analysis 
 - Statistical Modeling  
 - Backend System Design  
 - Machine Learning for Production  
