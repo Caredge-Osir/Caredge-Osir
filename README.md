@@ -12,11 +12,12 @@ I'm an undergraduate student pursuing a **Bachelor of Science in Statistics and 
 ---
 
 ## 🧠 Interests
-- Data Engineering
-- Data Analysis 
-- Statistical Modeling  
-- Backend System Design  
-- Machine Learning for Production  
+- Data Exploration & Analysis.
+- Machine Learning & AI.
+- Statistical Modeling.  
+- Data Visualisation.  
+- Databases & Querying.
+- Back-end System Design.  
 
 ---
 
