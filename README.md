@@ -13,22 +13,34 @@ I'm an undergraduate student pursuing a **Bachelor of Science in Statistics and 
 
 ## 🛠️ Tech Stack
 
-### 🧠 Data & Analysis
-- Python (NumPy, Pandas, Scikit-learn, Matplotlib)
-- R
-- SQL (MySQL, PostgreSQL)
+### 💻 Programming Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>  
 
-### 🔧 Backend Development
-- Node.js 
-- Python | Django
-- MongoDB | PostgreSQL
+### ⚙️ Backend & Frameworks  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>  
 
----
+### 🧪 Data Science & Analytics  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>  
 
-## 📊 What I’m Working On
-- Building data-driven backend APIs for analytics dashboards
-- Deploying containerized microservices with Docker
-- Practicing hypothesis testing and predictive modeling
+### 🛢️ Databases  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>  
+
+### 🔧 Tools & Platforms  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>  
 
 ---
 
@@ -42,8 +54,6 @@ I'm an undergraduate student pursuing a **Bachelor of Science in Statistics and 
 ---
 
 > “Without data, you're just another person with an opinion.” — W. Edwards Deming
-
-Thanks for stopping by! Feel free to check out my repositories 👇
 
 <h2>Skills and Tools</h2>
 <div style="display: flex; gap: 15px; align-items: center;">
@@ -61,4 +71,7 @@ Thanks for stopping by! Feel free to check out my repositories 👇
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> 
 </div>
+
+Thanks for stopping by! Feel free to check out my repositories 👇
+
 
